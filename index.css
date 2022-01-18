@@ -1,1 +1,42 @@
-css
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+div{
+    width: 250px;
+    height: 70px;
+    border-radius: 10px;
+    
+    
+
+}
+
+
+div.app{
+ background-color: rgb(187, 187, 69);   
+}
+div.sushi{
+    background-color: purple;
+
+}
+div.drinks{ 
+    background-color: blue;
+
+}
+div.ramen{
+    background-color: grey;
+
+}
+div.vege{
+    background-color: rgb(81, 136, 81);
+
+}
+div.dessert{
+    background-color: rgb(68, 67, 67);
+
+}
+
+
+
