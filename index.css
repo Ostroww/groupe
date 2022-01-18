@@ -1,12 +1,14 @@
 .h5 {
   font-weight: bolder;
 }
-body nav div {
+body nav {
   padding: 0%;
   margin: 0%;
-  background-color: aliceblue;
   display: flex;
   justify-content: space-evenly;
+}
+body nav div {
+  justify-content: space-between;
 }
 
 body section {
