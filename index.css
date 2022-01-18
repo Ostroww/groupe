@@ -44,3 +44,54 @@ div.Ramen {
     background-color: white;
     border-radius: 10px;
 }
+
+
+h4{
+    margin: 40px;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    
+}
+section.un div{
+    width: 250px;
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+
+
+div.app{
+ background-color: rgb(189, 189, 13);
+ 
+}
+div.sushi{
+    background-color: purple;
+
+}
+div.drinks{ 
+    background-color: blue;
+
+}
+div.ramen{
+    background-color: grey;
+
+}
+div.vege{
+    background-color: rgb(81, 136, 81);
+
+}
+div.dessert{
+    background-color: rgb(68, 67, 67);
+
+}
+
+
+
