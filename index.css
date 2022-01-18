@@ -10,17 +10,15 @@ section{
     
     
 }
-div{
+section.un div{
     width: 250px;
     margin-bottom: 20px;
     height: 70px;
     border-radius: 10px;
     color: white;
-    
-    
-
 
 }
+
 
 
 div.app{
